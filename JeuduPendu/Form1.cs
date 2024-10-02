@@ -316,6 +316,7 @@ namespace JeuduPendu
 
         }
 
+        // méthode nécessaire pour contrôler l'entrée d'un mot ou d'une lettre dans la saisie de texte
         private void groupBox1_Enter(object sender, EventArgs e)
         {
 
