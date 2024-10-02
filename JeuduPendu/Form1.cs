@@ -324,7 +324,7 @@ namespace JeuduPendu
 
         private void imgPendu_Click(object sender, EventArgs e)
         {
-
+            // erreur 
         }
     }
 }
